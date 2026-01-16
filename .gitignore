@@ -1,0 +1,6 @@
+cue.mod/pkg/
+.gitlab-ci-local/
+CLAUDE.md
+
+# Hookify local rules (not committed)
+.claude/*.local.md
